@@ -1,2 +1,3 @@
 # skill-replacer
-If you need this just update with your self 
+All def are out of date and i will not update this<br>
+If you need just update with your self 
