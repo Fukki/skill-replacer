@@ -1,0 +1,47 @@
+{
+    "enabled": true,
+    "replaceList": {
+        "4": {
+            "4": {
+                "enabled": true,
+                "Description": "Arcane Pulse",
+                "replace2Skill": 330112,
+                "autoRepeat": false
+            },
+            "6": {
+                "enabled": true,
+                "Description": "Meteor Strike",
+                "replace2Skill": 320100,
+                "autoRepeat": false
+            },
+            "36": {
+                "enabled": false,
+                "Description": "Fusion",
+                "replace2Skill": 360600,
+                "autoRepeat": false
+            }
+        },
+        "9": {
+            "1": {
+                "enabled": true,
+                "Description": "Blast",
+                "replace2Skill": 420101,
+                "autoRepeat": false
+            },
+            "40": {
+                "enabled": true,
+                "Description": "Rolling Reload",
+                "replace2Skill": 400102,
+                "autoRepeat": false
+            }
+        },
+        "11": {
+            "3": {
+                "enabled": true,
+                "Description": "Leaves on the Wind",
+                "replace2Skill": 150732,
+                "autoRepeat": true
+            }
+        }
+    }
+}

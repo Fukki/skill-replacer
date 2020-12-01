@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Skill Replacer",
+    "author": "WTF",
+    "description": "Replace your skill make this TERA great again.",
+    "options": {
+        "niceName": "Skill Replacer"
+    },
+    "servers": [""]
+}
